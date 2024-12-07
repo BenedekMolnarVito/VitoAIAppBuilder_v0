@@ -1,0 +1,12 @@
+Create a Form for a .NET WinForm application that has the same input fields as an APPLICATION FORM for OTP SZÉCHENYI PIHENŐKÁRTYA. Include corresponding labels for fields.
+The code files namespace should be "AIAppBuilder_v0".
+Add a Save button to this form, that saves the whole form to the hard disk. Use itext7 NuGet pakcage for PDF saving logic. The save path should be: "C:\Users\User\source\repos\AIAppBuilder_v0\CodeGenerationOutput\" and the file name should be "test1.pdf".
+The generated PDF design and style should match the APPLICATION FORM for OTP SZÉCHENYI PIHENŐKÁRTYA.
+
+Create a Form for a .NET WinForm application that has the same input fields as an APPLICATION FORM for OTP SZÉCHENYI PIHENŐKÁRTYA. Include corresponding labels for fields.
+The code files namespace should be "AIAppBuilder_v0".
+Add a Save button to this form, that saves the whole form to the hard disk. 
+Use itext7 NuGet pakcage for PDF saving logic. 
+The save path should be: "C:\Users\User\source\repos\AIAppBuilder_v0\CodeGenerationOutput\" and the file name should be "test1.pdf".
+The generated PDF design and style should match the APPLICATION FORM for OTP SZÉCHENYI PIHENŐKÁRTYA.
+Your answer should be at least several code files
