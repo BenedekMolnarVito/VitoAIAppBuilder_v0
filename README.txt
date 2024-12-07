@@ -1,5 +1,5 @@
 There are multiple RAG model implementations (experimental phase) in the 
-.AIAppBuilder_v0\bin\Debug\net8.0-windows directory!
+.\AIAppBuilder_v0\PythonScripts directory!
 
 PYTHON setup:
 1. Create a virtual environment with python3.7 where the exe file (assembly) is (e.g. C:\Users\User\source\repos\AIAppBuilder_v0\bin\Debug\net8.0-windows)
